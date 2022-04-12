@@ -1,3 +1,5 @@
+This assignment has not been marked. This README.md will be updated when the marks are released.
+
 # SENG1120-Assign1
 Assignment 1: Linked Lists [C++]
 
@@ -9,7 +11,7 @@ You are required to use a doubly linked list, as discussed in lectures, to creat
 The *LinkedList* class will be used by a main program, to be supplied to you, as well as a *makefile*. You will need to design *LinkedList* and *Node* in a way that it communicates seamlessly with the provided main program and *Student* class, compiles with the provided *makefile*, and matches the exact expected output.
 Please refer to the Lecture Slides for guidance on how to properly implement both classes.
 
-## COMPILING OUTPUT
+## EXPECTED COMPILING OUTPUT
 ```
 CES236-7DXQJX2+Alex@CES236-7DXQJX2 /home/Assign1-S1-2022
 $ make clean
