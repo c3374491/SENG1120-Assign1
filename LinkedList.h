@@ -29,14 +29,17 @@ class LinkedList
         void addToHead(const value_type& d);
         void addToCurrent(const value_type& d);
         void addToTail(const value_type& d);
+        void start();
+        void end();
+        void forward();
+        void back();
 
         // accessor methods (getters)
-        Node* getHead() const;
-        Node* getCurrent() const;
-        Node* getTail() const;
+        Node::value_type getCurrent() const;
         const int getLowestScore();
         const double getAverageScore();
         const int getHighestScore();
+        const int getLength();
 
         // remove methods
         void removeFromHead();
@@ -55,6 +58,8 @@ class LinkedList
 		Node* head;
 		Node* tail;
 		Node* current;
+
+        int length;
 };
 
 ostream& operator << (ostream& out, LinkedList& list);
