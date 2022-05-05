@@ -1,5 +1,3 @@
-*I received 15/15 for this assignment.*
-
 # SENG1120-Assign1
 Assignment 1: Linked Lists [C++]
 
@@ -66,7 +64,10 @@ The program has finished.
 * Improper submission format – such as .rar or .7z – and contents ( 0.0 /-5.0)
 * Other - see Comments ( 0.0 / -15.0 )
 
-## COMMENTS FROM MARKER\
+## COMMENTS FROM MARKER
 Compiles and runs with correct output.
 NOTE: Do not #include Node in LinkedList.cpp.
 This was an all but perfect submission, really well done.
+
+## ASSIGNMENT MARK
+15/15
