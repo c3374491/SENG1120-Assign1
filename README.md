@@ -1,4 +1,4 @@
-This assignment has not been marked. This README.md will be updated when the marks are released.
+*I received 15/15 for this assignment.*
 
 # SENG1120-Assign1
 Assignment 1: Linked Lists [C++]
@@ -50,3 +50,23 @@ Statistics of list '2': (20 / 48 / 85)
 Number of students named 'Carol': 3
 The program has finished.
 ```
+
+## REMOVE MARKS IF
+* Code leads to memory leaks during execution ( 0.0 / -1.0 )
+* Lack of macroguards ( 0.0 / -1.0 )
+* Lack of destructors ( 0.0 / -1.0 )
+* Lack of const qualifiers ( 0.0 / -1.0 )
+* Lack of comments/documentation in the code ( 0.0 / -2.0 )
+* Use of EToll unnecessarily in the code, i.e. other than in typedef statements ( 0.0 / -2.0 )
+* Declaration of temporary variables as member variables of the class ( 0.0 / -1.0 )
+* Lack of use of dynamic memory allocation in Node or LinkedList ( 0.0 / -10.0 )
+* Use of friend qualifier ( 0.0 / -2.0 )
+* Violation of encapsulation / information hiding (e.g. use of global variables) ( 0.0 / -5.0 )
+* Implementation in the header file ( 0.0 / -4.0 )
+* Improper submission format – such as .rar or .7z – and contents ( 0.0 /-5.0)
+* Other - see Comments ( 0.0 / -15.0 )
+
+## COMMENTS FROM MARKER\
+Compiles and runs with correct output.
+NOTE: Do not #include Node in LinkedList.cpp.
+This was an all but perfect submission, really well done.
